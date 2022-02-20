@@ -1,4 +1,4 @@
-from flaskr import launcher
+from launcher import *
 
 application = launcher.create_app()
 
