@@ -1,1 +1,0 @@
-(()=>{"use strict";var e=document.querySelector(".home");null!==e&&window.addEventListener("load",(function(){return e.classList.add("on")}))})();
