@@ -7,4 +7,7 @@ background-color: #8C8C8C;
   justify-content: left;
   font-size: calc(5px + 2vmin);
   color: white;
+  bottom: 0;
+  position: sticky;
+  top: 100%;
 }
